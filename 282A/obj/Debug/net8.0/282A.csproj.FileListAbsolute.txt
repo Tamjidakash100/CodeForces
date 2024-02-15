@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\282A\bin\Debug\net8.0\282A.exe
+D:\Projects\Problem Solving\CodeForces\282A\bin\Debug\net8.0\282A.deps.json
+D:\Projects\Problem Solving\CodeForces\282A\bin\Debug\net8.0\282A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\282A\bin\Debug\net8.0\282A.dll
+D:\Projects\Problem Solving\CodeForces\282A\bin\Debug\net8.0\282A.pdb
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.dll
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\refint\282A.dll
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.pdb
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\282A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\282A\obj\Debug\net8.0\ref\282A.dll

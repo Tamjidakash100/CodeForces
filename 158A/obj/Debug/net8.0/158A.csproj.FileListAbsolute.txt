@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\158A\bin\Debug\net8.0\158A.exe
+D:\Projects\Problem Solving\CodeForces\158A\bin\Debug\net8.0\158A.deps.json
+D:\Projects\Problem Solving\CodeForces\158A\bin\Debug\net8.0\158A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\158A\bin\Debug\net8.0\158A.dll
+D:\Projects\Problem Solving\CodeForces\158A\bin\Debug\net8.0\158A.pdb
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.dll
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\refint\158A.dll
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.pdb
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\158A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\158A\obj\Debug\net8.0\ref\158A.dll
