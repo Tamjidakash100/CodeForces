@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\50A\bin\Debug\net8.0\50A.exe
+D:\Projects\Problem Solving\CodeForces\50A\bin\Debug\net8.0\50A.deps.json
+D:\Projects\Problem Solving\CodeForces\50A\bin\Debug\net8.0\50A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\50A\bin\Debug\net8.0\50A.dll
+D:\Projects\Problem Solving\CodeForces\50A\bin\Debug\net8.0\50A.pdb
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.dll
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\refint\50A.dll
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.pdb
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\50A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\50A\obj\Debug\net8.0\ref\50A.dll
