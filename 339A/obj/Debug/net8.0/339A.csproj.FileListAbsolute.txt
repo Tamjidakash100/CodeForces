@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\339A\bin\Debug\net8.0\339A.exe
+D:\Projects\Problem Solving\CodeForces\339A\bin\Debug\net8.0\339A.deps.json
+D:\Projects\Problem Solving\CodeForces\339A\bin\Debug\net8.0\339A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\339A\bin\Debug\net8.0\339A.dll
+D:\Projects\Problem Solving\CodeForces\339A\bin\Debug\net8.0\339A.pdb
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.dll
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\refint\339A.dll
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.pdb
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\339A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\339A\obj\Debug\net8.0\ref\339A.dll
