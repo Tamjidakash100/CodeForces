@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\118A\bin\Debug\net8.0\118A.exe
+D:\Projects\Problem Solving\CodeForces\118A\bin\Debug\net8.0\118A.deps.json
+D:\Projects\Problem Solving\CodeForces\118A\bin\Debug\net8.0\118A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\118A\bin\Debug\net8.0\118A.dll
+D:\Projects\Problem Solving\CodeForces\118A\bin\Debug\net8.0\118A.pdb
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.dll
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\refint\118A.dll
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.pdb
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\118A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\118A\obj\Debug\net8.0\ref\118A.dll
