@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\59A\bin\Debug\net8.0\59A.exe
+D:\Projects\Problem Solving\CodeForces\59A\bin\Debug\net8.0\59A.deps.json
+D:\Projects\Problem Solving\CodeForces\59A\bin\Debug\net8.0\59A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\59A\bin\Debug\net8.0\59A.dll
+D:\Projects\Problem Solving\CodeForces\59A\bin\Debug\net8.0\59A.pdb
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.dll
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\refint\59A.dll
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.pdb
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\59A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\59A\obj\Debug\net8.0\ref\59A.dll
