@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\110A\bin\Debug\net8.0\110A.exe
+D:\Projects\Problem Solving\CodeForces\110A\bin\Debug\net8.0\110A.deps.json
+D:\Projects\Problem Solving\CodeForces\110A\bin\Debug\net8.0\110A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\110A\bin\Debug\net8.0\110A.dll
+D:\Projects\Problem Solving\CodeForces\110A\bin\Debug\net8.0\110A.pdb
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.dll
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\refint\110A.dll
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.pdb
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\110A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\110A\obj\Debug\net8.0\ref\110A.dll

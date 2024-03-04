@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\69A\bin\Debug\net8.0\69A.exe
+D:\Projects\Problem Solving\CodeForces\69A\bin\Debug\net8.0\69A.deps.json
+D:\Projects\Problem Solving\CodeForces\69A\bin\Debug\net8.0\69A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\69A\bin\Debug\net8.0\69A.dll
+D:\Projects\Problem Solving\CodeForces\69A\bin\Debug\net8.0\69A.pdb
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.dll
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\refint\69A.dll
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.pdb
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\69A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\69A\obj\Debug\net8.0\ref\69A.dll
