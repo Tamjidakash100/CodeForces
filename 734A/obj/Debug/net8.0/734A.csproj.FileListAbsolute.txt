@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\734A\bin\Debug\net8.0\734A.exe
+D:\Projects\Problem Solving\CodeForces\734A\bin\Debug\net8.0\734A.deps.json
+D:\Projects\Problem Solving\CodeForces\734A\bin\Debug\net8.0\734A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\734A\bin\Debug\net8.0\734A.dll
+D:\Projects\Problem Solving\CodeForces\734A\bin\Debug\net8.0\734A.pdb
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.dll
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\refint\734A.dll
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.pdb
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\734A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\734A\obj\Debug\net8.0\ref\734A.dll

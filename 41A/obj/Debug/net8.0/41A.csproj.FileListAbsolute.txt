@@ -1,0 +1,14 @@
+D:\Projects\Problem Solving\CodeForces\41A\bin\Debug\net8.0\41A.exe
+D:\Projects\Problem Solving\CodeForces\41A\bin\Debug\net8.0\41A.deps.json
+D:\Projects\Problem Solving\CodeForces\41A\bin\Debug\net8.0\41A.runtimeconfig.json
+D:\Projects\Problem Solving\CodeForces\41A\bin\Debug\net8.0\41A.dll
+D:\Projects\Problem Solving\CodeForces\41A\bin\Debug\net8.0\41A.pdb
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.AssemblyInfoInputs.cache
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.AssemblyInfo.cs
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.csproj.CoreCompileInputs.cache
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.dll
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\refint\41A.dll
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.pdb
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\41A.genruntimeconfig.cache
+D:\Projects\Problem Solving\CodeForces\41A\obj\Debug\net8.0\ref\41A.dll
